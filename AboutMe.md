@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richazeo
 - 👀 I’m interested in Front End Technologies
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on application integration, frontend development or any other development
+- 💞️ I’m looking to collaborate on application integration, frontend development, UI&UX testing and development, product review.
 - 📫 richa.zeo@gmail.com
 
 <!---
