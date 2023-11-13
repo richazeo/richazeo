@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richazeo
-- 👀 I’m interested in Front End Technologies
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on application integration, frontend development, UI&UX testing and development, product review.
+- 👀 I’m interested in Back End Technologies, API Designing, Application Integration, Airtable, OpenAI
+- 🌱 I’m currently learning OpenAI
+- 💞️ I’m looking to collaborate on Airtable, application integration, backend development, product development.
 - 📫 richa.zeo@gmail.com
 
 <!---
