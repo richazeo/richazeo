@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @richazeo
-- 👀 I’m interested in Back End Technologies, API Designing, Application Integration, Airtable
-- 🌱 I’m currently learning REACT JS and NODE JS
-- 💞️ I’m looking to collaborate on Application integration, Backend development, Product development.
+- 👋 Hi, I’m Richa
+- 👀 I’m interested in Back End Technologies, API Designing, Application Integration, Airtable, Wordpress
+- 🌱 I’m currently learning Wordpress
+- 💞️ I’m looking to collaborate on Application integration, Backend development, Product development, Wordpress projects
 - 📫 richa.zeo@gmail.com
 
 <!---
